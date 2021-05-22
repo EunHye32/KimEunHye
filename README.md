@@ -2,14 +2,14 @@
 20183369 자동차IT융합학과 김은혜
 
 
-<OS Environment>
+#### OS Environment
 
   - Windows 10 Version
 
   - And compiled in WSL2(Ubuntu-20.04)
 
   
-<Additional commands>
+#### Additional commands
 
   - "cwd" command - Output the directory you are currently working on
 
@@ -20,7 +20,7 @@
   - "exit" command - Exit Current Shell
 
   
-<Additional Elements>
+#### Additional Elements
 
   - This shell outputs host name and user name when first started
 
